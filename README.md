@@ -1,0 +1,1 @@
+# rn-device-info
