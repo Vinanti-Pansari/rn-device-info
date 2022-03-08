@@ -12,3 +12,7 @@ cd in to repository folder
 
 - run yarn install or run npm i
 - run npx pod-install ios or cd ios && pod install
+
+
+https://user-images.githubusercontent.com/54045800/157179110-03097526-dc8f-4e44-9054-78fc217b6d82.mp4
+
